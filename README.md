@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todo
 
 ## Project setup
@@ -27,3 +28,6 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# todo
+>>>>>>> a96d31cc738dd43bf4a71e447d33a7c44bc8f822
